@@ -1,3 +1,3 @@
-* yelpcamp Clone
+*yelpcamp Clone
 
 ** Web development
