@@ -47,3 +47,23 @@
 
 # views (V from MVC)
 - template engine : ejs
+- campgrounds (HTML)
+    - edit.ejs
+    - index.ejs 
+    - new.ejs 
+    - show.ejs  
+- partials (part of the HTML that are being used throughout many pages)
+    -flash.ejs
+    -footer.ejs
+    -navbar.ejs
+- layouts (building block / Structure of the View)
+    - boilerplates.ejs
+
+- home.ejs : home apge
+- error.ejs : template backbone file for when errors pop up
+
+# app.js (C - Controller from MVC)
+
+
+# schemas.js
+- A middleware for validating express inputs using Joi schemas
